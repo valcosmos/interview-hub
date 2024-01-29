@@ -14,5 +14,6 @@ export default defineConfig({
     socialLinks: [
       { icon: 'github', mode: 'link', content: 'https://github.com/valcosmos/interview-hub' }
     ]
-  }
+  },
+  base: '/interview-hub/'
 })
